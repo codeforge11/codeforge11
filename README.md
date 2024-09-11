@@ -1,7 +1,8 @@
 Hi 👋 My name is Arkadiusz Niewiadomy
 =====================================
 
-If you're here, it means you want to see code that doesn't work or almost works. Have fun watching the worst code ever created by man.
+I'm passionate about Go (Golang) and constantly learning new technologies to stay on the cutting edge of software development.
+
 
 * 🌍  I'm based in Poland
 * ✉️  You can contact me at [codeforge11@gmail.com](mailto:codeforge11@gmail.com)
