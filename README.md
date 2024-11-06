@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌍 I am based in Poland<br>🌱 I am currently learning new technologies<br>📖 I specialize in Go/Golang and Rust<br>✉️ You can contact me at codeforge11@gmail.com
+🌍 I am based in Poland<br>🌱 I am currently learning new technologies<br>📖 I specialize in Go/Golang <br>✉️ You can contact me at codeforge11@gmail.com
 
 
 ## 🌐 Socials:
