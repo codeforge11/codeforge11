@@ -19,7 +19,7 @@
 <h1 align="center">  📊 GitHub Stats 📊 </h1>
 
 <p align="center">
-    <table>
+    <table style="border: none;">
         <tr>
             <td width="50%">
                 <a href="https://github.com/codeforge11">
@@ -34,7 +34,6 @@
         </tr>
     </table>
 </p>
-
 
 <p align="center">
     <a href="https://github.com/codeforge11">
