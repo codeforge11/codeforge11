@@ -1,10 +1,7 @@
+![](src/top.svg)
+
 # 💫 About Me:
 🌍 I am based in Poland<br>🌱 I am currently learning new technologies<br>📖 I specialize in Go/Golang <br>✉️ You can contact me at codeforge11@gmail.com
-
-
-## 🌐 Socials:
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27400639) 
-
 # 💻 Tech Stack:
 
 <p align="left">
@@ -19,10 +16,32 @@
 
 💡 **For a complete list of my skills and technologies, visit [my website](https://www.codeforge11.live/)** 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=codeforge11&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=codeforge11&theme=blue-green&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codeforge11&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<h1 align="center">  📊 GitHub Stats 📊 </h1>
 
----
-[![](https://visitcount.itsvg.in/api?id=codeforge11&icon=1&color=8)](https://visitcount.itsvg.in)
+<p align="center">
+    <a href="https://github.com/codeforge11">
+        <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=codeforge11&theme=blue-green" alt="Streak Stats" width="40%" height ="20%"/>
+    </a>
+    <a href="https://github.com/codeforge11">
+        <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=codeforge11&count_private=true&show_icons=true&theme=blue-green&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged" alt="GitHub Stats" width="40%" height ="20%"/>
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/codeforge11">
+        <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api/top-langs/?username=codeforge11&theme=blue-green&layout=compact" alt="Top Languages" width="30%" height ="20%"/>
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/codeforge11">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=codeforge11&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=algolia">
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=codeforge11&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=algolia">
+            <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=codeforge11&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20&theme=algolia">
+        </picture>
+    </a>
+</p>
+</p>
+
+![](src/bottom.svg)
