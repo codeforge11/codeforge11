@@ -20,12 +20,13 @@
 
 <p align="center">
     <a href="https://github.com/codeforge11">
-        <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=codeforge11&theme=blue-green" alt="Streak Stats" />
+        <img src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=codeforge11&theme=blue-green" alt="Streak Stats" />
     </a>
     <a href="https://github.com/codeforge11">
-        <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=codeforge11&count_private=true&show_icons=true&theme=blue-green&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=codeforge11&count_private=true&show_icons=true&theme=blue-green&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged" alt="GitHub Stats" />
     </a>
 </p>
+
 
 <p align="center">
     <a href="https://github.com/codeforge11">
