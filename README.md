@@ -19,7 +19,6 @@
 <h1 align="center">  📊 GitHub Stats 📊 </h1>
 
 <p align="center">
-    <table style="border: none;">
         <tr>
             <td width="50%">
                 <a href="https://github.com/codeforge11">
@@ -31,8 +30,6 @@
                     <img src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=codeforge11&count_private=true&show_icons=true&theme=blue-green&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged" alt="GitHub Stats" />
                 </a>
             </td>
-        </tr>
-    </table>
 </p>
 
 <p align="center">
