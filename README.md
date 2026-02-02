@@ -10,7 +10,6 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/javascript.svg" height="50"/></a>
     <a href="https://isocpp.org" target="_blank"><img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/cpp.svg" height="50"/></a>
     <a href="https://gin-gonic.com" target="_blank"><img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/gin-auto.svg" height="50"/></a>
-    <a href="https://kotlinlang.org" target="_blank"><img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/kotlin-auto.svg" height="50"/></a>
     <a href="https://www.docker.com" target="_blank"><img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/docker.svg" height="50"/></a>
 </p>
 
