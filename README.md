@@ -1,9 +1,13 @@
 ![](src/top.svg)
 
 # 💫 About Me:
-🌍 I am based in Poland<br>🌱 I am currently learning new technologies<br>📖 I specialize in Go/Golang <br>✉️ You can contact me at codeforge11@gmail.com
-# 💻 Tech Stack:
+🌍 I am based in Poland<br>
+🌱 I am currently learning new technologies<br>
+📖 I specialize in solving complex problems<br>
+☕ I live in love with coffee<br>
+✉️ You can contact me at codeforge11+contact@gmail.com
 
+# 💻 Tech Stack:
 <p align="left">
     <a href="https://golang.org" target="_blank"><img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/golang.svg" height="50"/></a>
     <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/python-auto.svg" height="50"/></a>
@@ -15,7 +19,7 @@
 
 💡 **For a complete list of my skills and technologies, visit [my website](https://www.codeforge11.live/)** 
 
-<h1 align="center">  📊 GitHub Stats 📊 </h1>
+<h1 align="center">  📊 My GitHub Stats 📊 </h1>
 
 <p align="center">
     <a href="https://github.com/codeforge11">
