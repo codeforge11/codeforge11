@@ -23,23 +23,13 @@
 
 <p align="center">
     <a href="https://github.com/codeforge11">
-        <img src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=codeforge11&theme=blue-green" alt="Streak Stats" />
+        <img src="https://dos.codeforge11.live/?user=codeforge11&theme=blue-green" alt="Streak Stats" />
     </a>
     <a href="https://github.com/codeforge11">
-        <img src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=codeforge11&count_private=true&show_icons=true&theme=blue-green&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged" alt="GitHub Stats" />
+        <img src="https://unos.codeforge11.live/api?username=codeforge11&show_icons=true&theme=blue-green&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/codeforge11">
-        <img src="https://github-readme-stats-xi-seven-23.vercel.app/api/top-langs/?username=codeforge11&theme=blue-green&layout=compact" alt="Top Languages" />
-    </a>
-</p>
-
-<p align="center">
-    <a href="https://github.com/codeforge11">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=codeforge11&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=algolia">
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=codeforge11&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=algolia">
-            <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=codeforge11&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20&theme=algolia">
-        </picture>
+        <img src="https://unos.codeforge11.live/api/top-langs/?username=codeforge11&theme=blue-green&layout=compact" alt="Top Languages" />
     </a>
 </p>
 </p>
