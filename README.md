@@ -17,19 +17,19 @@
     <a href="https://www.docker.com" target="_blank"><img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/docker.svg" height="50"/></a>
 </p>
 
-💡 **For a complete list of my skills and technologies, visit [my website](https://www.codeforge11.live/)** 
+💡 **For a complete list of my skills and technologies, visit [my website](https://www.codeforge11.tech/)** 
 
 <h1 align="center">  📊 My GitHub Stats 📊 </h1>
 
 <p align="center">
     <a href="https://github.com/codeforge11">
-        <img src="https://dos.codeforge11.live/?user=codeforge11&theme=blue-green" alt="Streak Stats" />
+        <img src="https://dos.codeforge11.tech/?user=codeforge11&theme=blue-green" alt="Streak Stats" />
     </a>
     <a href="https://github.com/codeforge11">
-        <img src="https://unos.codeforge11.live/api?username=codeforge11&show_icons=true&theme=blue-green&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged" alt="GitHub Stats" />
+        <img src="https://unos.codeforge11.tech/api?username=codeforge11&show_icons=true&theme=blue-green&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/codeforge11">
-        <img src="https://unos.codeforge11.live/api/top-langs/?username=codeforge11&theme=blue-green&layout=compact" alt="Top Languages" />
+        <img src="https://unos.codeforge11.tech/api/top-langs/?username=codeforge11&theme=blue-green&layout=compact" alt="Top Languages" />
     </a>
 </p>
 </p>
